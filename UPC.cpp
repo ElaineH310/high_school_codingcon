@@ -1,3 +1,4 @@
+//一○八學年度高級中學資訊學科能力競賽 彰雲嘉區複賽程式設計試題(一)
 #include<bits/stdc++.h>  // 萬用標頭檔
 using namespace std;         // 命名空間
 void best(){
@@ -38,5 +39,3 @@ int main(){
     cout << check_digit << "\n";
   } 
 }
-
-//一○八學年度高級中學資訊學科能力競賽 彰雲嘉區複賽程式設計試題(一)
